@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html data-useragent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0" class="ng-scope" lang="zh-cn">
+ <head> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style> 
+  <meta charset="UTF-8" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /> 
+  <meta name="renderer" content="webkit" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" /> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+  <title>网站正在新建当中</title> 
+ </head>
+ <body>
+ <p>网站正在新建当中</p>
+ </body>
+</html>
