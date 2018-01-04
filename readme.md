@@ -1,4 +1,3 @@
 ## 这是一个问答的小测试页面。 2018-01-03
-![JF.png](https://screenshots.firefoxusercontent.com/images/eca8994d-72a3-418c-b6ea-060637e2ee73.png)
 ## 修改样式。2018-01-04
-![JF.png](https://screenshots.firefoxusercontent.com/images/eca8994d-72a3-418c-b6ea-060637e2ee73.png)
+![JF.png](https://screenshots.firefoxusercontent.com/images/f5310b6e-b81e-4816-85f9-44f9132f8ca9.png)
