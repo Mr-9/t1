@@ -1,0 +1,38 @@
+.sec1-title{
+    padding: 0.5em;
+    line-height: 1.2em;
+    font-size: 18px;
+    background-color: rgb(109, 43, 168);
+    color: inherit;
+    text-align: center;
+}
+.sec1-title strong {
+    font-weight: bold;
+    color:#fff;
+    padding: 0;
+    
+}
+/* 三角 */
+.triangle {
+    width: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top: 0.6em solid rgb(109, 43, 168);
+    border-bottom-color: rgb(109, 43, 168);
+    height: 10px;
+    border-left: .7em solid transparent !important;
+    border-right: .7em solid transparent !important;
+}
+/* 指数 */
+.zs-title{
+    padding-right: 0.3em;
+    padding-left: 0.3em;
+    display: inline-block;vertical-align: top;
+    border-top: 1px solid rgb(109, 43, 168);
+    border-bottom: 1px solid rgb(109, 43, 168);
+    border-right: 1px solid rgb(109, 43, 168);
+    font-size: 1.2em;
+    text-align: center;
+    color: rgb(109, 43, 168);
+}
+

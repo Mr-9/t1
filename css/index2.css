@@ -7,20 +7,22 @@ body {
 }
 
 .g-doc {
-    width: 100%;
+    /* width: 100%; */
     height: 100%;
     margin: 0 auto;
-    padding: 0;
+    padding: 0 10px;
     font-size: .7rem;
     background: #fff;
 }
 
 .m-nav {
-    width: 100%;
+    /* width: 100%; */
 }
 
 .m-nav img {
-    width: 100%;
+    /* width: 100%; */
+    display: block;
+    margin:0 auto 20px;
 }
 
 .m-title {
@@ -46,9 +48,10 @@ p {
 
 p.text-indent {
     text-indent: 2em;
-    font-size: .7rem;
+    /* font-size: .5rem; */
     margin: .1rem auto;
     width: 95%;
+    line-height: 1.6;
 }
 
 strong {
@@ -69,7 +72,7 @@ p.m-tips {
 }
 
 p.m-tips span {
-    color: #feff00;
+    color: rgb(250, 192, 143);
 }
 
 p.m-border {
