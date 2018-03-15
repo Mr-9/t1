@@ -940,7 +940,7 @@ p.m-border {
     text-align: center;
     color: #fff;
     font-size: 1.6rem;
-    width: 78%;
+    /* width: 78%; */
     margin: .6rem auto 0;
     border-radius: .5rem;
 }

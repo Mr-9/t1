@@ -36,3 +36,20 @@
     color: rgb(109, 43, 168);
 }
 
+.footer{
+	width:100%;
+	max-width:640px;
+	/* position:fixed; */
+	bottom:0;
+	text-align: center;
+	/* background:red; */
+	color: #fff;
+	left:0;
+	right:0;
+	margin: 0 auto 20px;
+}
+.footer img{
+	margin:0;
+	padding: 0;
+	width:100%;
+}
